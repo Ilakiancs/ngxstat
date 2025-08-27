@@ -1,10 +1,11 @@
 package ngxstat
 
 import (
-	"github.com/mileusna/useragent"
 	"net/url"
 	"strings"
 	"time"
+
+	"github.com/mileusna/useragent"
 )
 
 // This struct provides a declarative specification of a field
