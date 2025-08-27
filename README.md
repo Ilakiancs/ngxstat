@@ -66,3 +66,7 @@ Available for grouping and filtering:
 `url`, `ip`, `status`, `method`, `user_agent`, `referer`, `host`, `os`, `device`, `ua_type`
 
 Derived fields like `os` and `device` are parsed from user agents automatically.
+
+
+Built with Go - bridging systems administration, data engineering, and web analytics into one practical tool for learning and real-world use. 
+`Created by Ilakian`
