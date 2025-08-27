@@ -13,7 +13,7 @@ URL                    STATUS  #REQS
 ## Install
 
 ```bash
-go install github.com/ilakianpuvanendra/ngxstat@latest
+go install github.com/Ilakiancs/ngxstat.git/ngxstat@latest
 ```
 
 ## Usage
