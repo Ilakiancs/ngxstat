@@ -10,10 +10,10 @@ test:
 	go test ./...
 
 build:
-	go build -o ngxstat
+	go build -o ngxstat-bin
 
 clean:
-	rm -f ngxstat ngxstat.db
+	rm -f ngxstat-bin ngxstat.db
 
 db:
 	sqlite3 -cmd ".open ngxstat.db"
